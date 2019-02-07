@@ -57,14 +57,14 @@ disqusShortname = "smadi-ci"
     name = "email"
     url = "mailto:hello@smadi.ci"
 
-[menu]
+# [menu]
 
-  [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 10
+#   [[menu.main]]
+#     name = "About"
+#     url = "/about"
+#     weight = 10
 
-  [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 20
+#   [[menu.main]]
+#     name = "Posts"
+#     url = "/posts/"
+#     weight = 20
