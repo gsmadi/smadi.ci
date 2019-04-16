@@ -57,6 +57,10 @@ disqusShortname = "smadi-ci"
     name = "email"
     url = "mailto:hello@smadi.ci"
 
+  [[params.social]]
+    name = "terminal"
+    url = "http://labs.smadi.ci"
+
 # [menu]
 
 #   [[menu.main]]
