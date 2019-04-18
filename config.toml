@@ -54,12 +54,12 @@ disqusShortname = "smadi-ci"
     url = "https://keybase.io/gsmadi"
 
   [[params.social]]
-    name = "email"
-    url = "mailto:hello@smadi.ci"
-
-  [[params.social]]
     name = "terminal"
     url = "http://labs.smadi.ci"
+
+  [[params.social]]
+    name = "email"
+    url = "mailto:hello@smadi.ci"
 
 # [menu]
 
