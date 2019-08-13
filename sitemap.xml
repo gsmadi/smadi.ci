@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://smadi.ci/index.html</loc>
+    <loc>https://smadi.ci/index.html</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://smadi.ci/</loc>
+    <loc>https://smadi.ci/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://smadi.ci/tags/</loc>
+    <loc>https://smadi.ci/tags/</loc>
     <priority>0</priority>
   </url>
   
